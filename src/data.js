@@ -18,5 +18,24 @@ export const data = [
         id: 4,
         name: 'Karim',
         status: 'Mentor',
+    },{
+        id: 5,
+        name: 'Eshon',
+        status: 'Usta',
+    },
+    {
+        id: 6,
+        name: 'Boltaboy',
+        status: 'Devloper',
+    },
+    {
+        id: 7,
+        name: 'Halimjon',
+        status: 'Qossob',
+    },
+    {
+        id: 8,
+        name: 'Karim',
+        status: 'Taksist',
     },
 ]
